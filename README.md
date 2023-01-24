@@ -6,6 +6,7 @@
 4. Technologies used: SQL, Python, Flask
 5. Considerations you had to make: How to implement proper testing
 6. Screenshots
+
   ![image](https://user-images.githubusercontent.com/25696415/214395122-a72fd3fc-5abb-48b8-b8de-dfd4146b5146.png)
   ![image](https://user-images.githubusercontent.com/25696415/214395145-82dbe609-51cd-47f9-8763-1ee0f6342ae1.png)
   ![image](https://user-images.githubusercontent.com/25696415/214395178-143dc558-8e10-4585-a073-a930d7a7af63.png)
